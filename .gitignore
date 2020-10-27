@@ -113,3 +113,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 忽略pycharm运行时，产生的.idea目录
+.idea/
+# 忽略mac系统下，产生的.DS_Store目录
+.DS_Store
